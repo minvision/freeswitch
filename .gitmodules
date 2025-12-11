@@ -1,0 +1,3 @@
+[submodule "src/mod/external/mod_funasr"]
+	path = src/mod/external/mod_funasr
+	url = git@github.com:minvision/mod_funasr.git
