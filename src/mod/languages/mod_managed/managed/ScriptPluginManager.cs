@@ -113,7 +113,8 @@ namespace FreeSWITCH
             var extraRefs = new List<string> {
                 "System.Core.dll",
                 "System.Xml.Linq.dll",
-                "System.Net.Http.dll"
+                "System.Net.Http.dll", 
+                "System.Web.dll"
             };
 
             // ===== 添加第三方库支持 =====
